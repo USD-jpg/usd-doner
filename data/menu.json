@@ -1,0 +1,799 @@
+[
+  {
+    "id": "doner-almaty-beef",
+    "category": "Донер",
+    "name": "Алматинский — говяжий",
+    "price": 1800,
+    "variants": [
+      {
+        "name": "1X",
+        "price": 1800
+      },
+      {
+        "name": "1.5X",
+        "price": 2300
+      }
+    ],
+    "description": "Говядина, овощи және фирмалық соус қосылған алматинский донер.",
+    "image": "/menu-source/menu-2.jpg",
+    "hit": true
+  },
+  {
+    "id": "doner-almaty-chicken",
+    "category": "Донер",
+    "name": "Алматинский — куриный",
+    "price": 1700,
+    "variants": [
+      {
+        "name": "1X",
+        "price": 1700
+      },
+      {
+        "name": "1.5X",
+        "price": 2200
+      }
+    ],
+    "description": "Тауық еті, көкөністер және фирмалық соус.",
+    "image": "/menu-source/menu-2.jpg",
+    "hit": true
+  },
+  {
+    "id": "doner-almaty-mix",
+    "category": "Донер",
+    "name": "Алматинский — ассорти",
+    "price": 1800,
+    "variants": [
+      {
+        "name": "1X",
+        "price": 1800
+      },
+      {
+        "name": "1.5X",
+        "price": 2300
+      }
+    ],
+    "description": "Ет ассортиі, көкөністер және фирмалық соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "doner-classic-shashlyk",
+    "category": "Донер",
+    "name": "Классик — шашлычный",
+    "price": 1500,
+    "variants": [
+      {
+        "name": "1X",
+        "price": 1500
+      },
+      {
+        "name": "1.5X",
+        "price": 1900
+      }
+    ],
+    "description": "Шашлычный ет, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "doner-classic-chicken",
+    "category": "Донер",
+    "name": "Классик — куриный",
+    "price": 1400,
+    "variants": [
+      {
+        "name": "1X",
+        "price": 1400
+      },
+      {
+        "name": "1.5X",
+        "price": 1800
+      }
+    ],
+    "description": "Тауық еті, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "doner-classic-mix",
+    "category": "Донер",
+    "name": "Классик — ассорти",
+    "price": 1500,
+    "variants": [
+      {
+        "name": "1X",
+        "price": 1500
+      },
+      {
+        "name": "1.5X",
+        "price": 1900
+      }
+    ],
+    "description": "Ет ассортиі, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "doner-baguette-beef",
+    "category": "Донер",
+    "name": "В багете — говяжий",
+    "price": 1800,
+    "description": "Багет ішіндегі говядина, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "doner-baguette-chicken",
+    "category": "Донер",
+    "name": "В багете — куриный",
+    "price": 1700,
+    "description": "Багет ішіндегі тауық еті, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "shawarma",
+    "category": "Донер",
+    "name": "Шаурма",
+    "price": 1400,
+    "variants": [
+      {
+        "name": "1X",
+        "price": 1400
+      },
+      {
+        "name": "1.5X",
+        "price": 1800
+      }
+    ],
+    "description": "Шаурма, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "pizza-kebab",
+    "category": "Донер",
+    "name": "Пицца кебаб",
+    "price": 2400,
+    "description": "Кебаб еті, көкөністер және соус қосылған пицца-кебаб.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "burger-classic-hamburger",
+    "category": "Бургер",
+    "name": "Классик — гамбургер",
+    "price": 1400,
+    "variants": [
+      {
+        "name": "1 котлета",
+        "price": 1400
+      },
+      {
+        "name": "2 котлеты",
+        "price": 1700
+      }
+    ],
+    "description": "Жұмсақ тоқаш, котлета, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg",
+    "hit": true
+  },
+  {
+    "id": "burger-classic-cheeseburger",
+    "category": "Бургер",
+    "name": "Классик — чизбургер",
+    "price": 1500,
+    "variants": [
+      {
+        "name": "1 котлета",
+        "price": 1500
+      },
+      {
+        "name": "2 котлеты",
+        "price": 1900
+      }
+    ],
+    "description": "Котлета, ірімшік, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "burger-chicken-hamburger",
+    "category": "Бургер",
+    "name": "Куриный — гамбургер",
+    "price": 1400,
+    "variants": [
+      {
+        "name": "1 котлета",
+        "price": 1400
+      },
+      {
+        "name": "2 котлеты",
+        "price": 1700
+      }
+    ],
+    "description": "Тауық котлетасы, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "burger-chicken-cheeseburger",
+    "category": "Бургер",
+    "name": "Куриный — чизбургер",
+    "price": 1500,
+    "variants": [
+      {
+        "name": "1 котлета",
+        "price": 1500
+      },
+      {
+        "name": "2 котлеты",
+        "price": 1900
+      }
+    ],
+    "description": "Тауық котлетасы, ірімшік, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "burger-shashlyk",
+    "category": "Бургер",
+    "name": "Шашлычный бургер",
+    "price": 1400,
+    "variants": [
+      {
+        "name": "1 котлета",
+        "price": 1400
+      },
+      {
+        "name": "2 котлеты",
+        "price": 1800
+      }
+    ],
+    "description": "Шашлычный ет, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "burger-shashlyk-cheese",
+    "category": "Бургер",
+    "name": "Шашлычный чизбургер",
+    "price": 1500,
+    "variants": [
+      {
+        "name": "1 котлета",
+        "price": 1500
+      },
+      {
+        "name": "2 котлеты",
+        "price": 1900
+      }
+    ],
+    "description": "Шашлычный ет, ірімшік, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "burger-chicken",
+    "category": "Бургер",
+    "name": "Чикен бургер",
+    "price": 1600,
+    "description": "Тауық еті, көкөністер және соус.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "combo-doner-1",
+    "category": "Комбо",
+    "name": "Комбо 1",
+    "price": 2900,
+    "description": "Донер Алматинский говяжий, фри, соус, кола 0.5 л.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "combo-doner-2",
+    "category": "Комбо",
+    "name": "Комбо 2",
+    "price": 2800,
+    "description": "Донер Алматинский куриный, фри, соус, кола 0.5 л.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "combo-doner-3",
+    "category": "Комбо",
+    "name": "Комбо 3",
+    "price": 2500,
+    "description": "Донер шашлычный, фри, соус, кола 0.5 л.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "combo-doner-4",
+    "category": "Комбо",
+    "name": "Комбо 4",
+    "price": 2400,
+    "description": "Донер куриный, фри, соус, кола 0.5 л.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "combo-burger-5",
+    "category": "Комбо",
+    "name": "Комбо 5",
+    "price": 2500,
+    "description": "Чизбургер говяжий/куриный, фри, соус, кола 0.5 л.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "combo-burger-6",
+    "category": "Комбо",
+    "name": "Комбо 6",
+    "price": 2500,
+    "description": "Чизбургер шашлычный, фри, соус, кола 0.5 л.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "mini-box",
+    "category": "Комбо",
+    "name": "Mini Box",
+    "price": 2200,
+    "description": "Мини гамбургер, наггетсы 4 шт., фри, соус, детский сок 0.2 л, игрушка.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "combo-burger-8",
+    "category": "Комбо",
+    "name": "Комбо 8",
+    "price": 2500,
+    "description": "Чикен бургер, фри, соус, кола 0.5 л.",
+    "image": "/menu-source/menu-2.jpg"
+  },
+  {
+    "id": "pizza-margarita",
+    "category": "Пицца",
+    "name": "Маргарита",
+    "price": 2300,
+    "description": "Сыр, соус, помидор.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-four-cheese",
+    "category": "Пицца",
+    "name": "4 сыра",
+    "price": 2300,
+    "description": "Соус Альфредо, моцарелла, сыр чеддер, сыр чили.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-four-seasons",
+    "category": "Пицца",
+    "name": "4 сезона",
+    "price": 2800,
+    "description": "Сыр, соус, помидор, колбаса, грибы, курица.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-chicken",
+    "category": "Пицца",
+    "name": "Куриная",
+    "price": 2500,
+    "description": "Сыр, соус, курица.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-mexican",
+    "category": "Пицца",
+    "name": "Мексикана",
+    "price": 2500,
+    "description": "Сыр, соус, помидор, говядина, халапеньо.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-pepperoni",
+    "category": "Пицца",
+    "name": "Пепперони",
+    "price": 2500,
+    "description": "Сыр, соус, колбаса.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-hawaiian",
+    "category": "Пицца",
+    "name": "Гавайская",
+    "price": 2600,
+    "description": "Соус Альфредо, моцарелла, ананас, курица.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-caesar",
+    "category": "Пицца",
+    "name": "Цезарь",
+    "price": 3000,
+    "description": "Соус Альфредо, соус Цезарь, сыр, помидор, курица, айсберг.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-mushroom",
+    "category": "Пицца",
+    "name": "Грибная",
+    "price": 2500,
+    "description": "Соус Альфредо, моцарелла, грибы.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "pizza-mini",
+    "category": "Пицца",
+    "name": "Мини пицца",
+    "price": 1400,
+    "description": "Сыр, соус, помидор, колбаса.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "set-1",
+    "category": "Сеты",
+    "name": "Сет 1",
+    "price": 6500,
+    "description": "Пицца, чикен 1 порция, фри 1 порция, белый соус, кола 2 л.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "set-2",
+    "category": "Сеты",
+    "name": "Сет 2",
+    "price": 12200,
+    "description": "4 донера, 1 пицца, чикен 1 порция, фри 1 порция, белый соус, кола 2 л.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "set-3",
+    "category": "Сеты",
+    "name": "Сет 3",
+    "price": 5800,
+    "description": "2 донера, 1 пицца, фри 1 порция, белый соус, кола 1 л.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "set-4",
+    "category": "Сеты",
+    "name": "Сет 4",
+    "price": 9000,
+    "description": "2 пиццы, чикен 1 порция, фри 1 порция, белый соус, кола 2 л.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "set-5",
+    "category": "Сеты",
+    "name": "Сет 5",
+    "price": 7500,
+    "description": "2 чизбургера, крылышки 16 шт., фри 2 порции, белый соус, сырный соус, кола 1 л.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "set-6",
+    "category": "Сеты",
+    "name": "Сет 6",
+    "price": 6300,
+    "description": "2 шаурмы, крылышки 16 шт., барбекю соус, кола 1 л.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "fries-box",
+    "category": "Қосымша",
+    "name": "Фри бокс",
+    "price": 1200,
+    "description": "Фри, сырные шарики, жареный лук, моцарелла, сырный соус.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "classic-combo",
+    "category": "Қосымша",
+    "name": "Классик комбо",
+    "price": 1250,
+    "description": "Өнімді таңда: фри, соус және кола 0.5 л.",
+    "image": "/menu-source/menu-3.jpg"
+  },
+  {
+    "id": "wings-8",
+    "category": "Чикен",
+    "name": "Крылышки / Буффало — 8 шт.",
+    "price": 1800,
+    "description": "8 дана тауық қанаты.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "wings-16",
+    "category": "Чикен",
+    "name": "Крылышки / Буффало — 16 шт.",
+    "price": 3000,
+    "description": "16 дана тауық қанаты.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "wings-20",
+    "category": "Чикен",
+    "name": "Крылышки / Буффало — 20 шт.",
+    "price": 3800,
+    "description": "20 дана тауық қанаты.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "wings-30",
+    "category": "Чикен",
+    "name": "Крылышки / Буффало — 30 шт.",
+    "price": 5500,
+    "description": "30 дана тауық қанаты.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "chicken-half",
+    "category": "Чикен",
+    "name": "Чикен — 0.5 порция",
+    "price": 1700,
+    "description": "Қытырлақ тауық еті, жарты порция.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "chicken-full",
+    "category": "Чикен",
+    "name": "Чикен — 1 порция",
+    "price": 2800,
+    "description": "Қытырлақ тауық еті, толық порция.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "fries",
+    "category": "Қосымша",
+    "name": "Фри",
+    "price": 700,
+    "description": "Бір порция картоп фри.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "nuggets-6",
+    "category": "Қосымша",
+    "name": "Наггетсы — 6 шт.",
+    "price": 900,
+    "description": "6 дана наггетс.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "nuggets-9",
+    "category": "Қосымша",
+    "name": "Наггетсы — 9 шт.",
+    "price": 1250,
+    "description": "9 дана наггетс.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "nuggets-12",
+    "category": "Қосымша",
+    "name": "Наггетсы — 12 шт.",
+    "price": 1600,
+    "description": "12 дана наггетс.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "nuggets-20",
+    "category": "Қосымша",
+    "name": "Наггетсы — 20 шт.",
+    "price": 2500,
+    "description": "20 дана наггетс.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "sauce-white",
+    "category": "Соусы",
+    "name": "Белый соус",
+    "price": 150,
+    "description": "Ақ соус.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "sauce-garlic",
+    "category": "Соусы",
+    "name": "Чесночный соус",
+    "price": 150,
+    "description": "Сарымсақ соусы.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "sauce-red",
+    "category": "Соусы",
+    "name": "Красный соус",
+    "price": 150,
+    "description": "Қызыл соус.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "sauce-ketchup",
+    "category": "Соусы",
+    "name": "Кетчуп",
+    "price": 100,
+    "description": "Кетчуп.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "sauce-jalapeno",
+    "category": "Соусы",
+    "name": "Халапеньо",
+    "price": 100,
+    "description": "Халапеньо соусы.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "rolls",
+    "category": "Қосымша",
+    "name": "Рулетики",
+    "price": 1400,
+    "description": "Қарақат, ананас, қант және қоюлатылған сүт қосылған рулетиктер.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "cocktail-milk",
+    "category": "Коктейли",
+    "name": "Молочный коктейль",
+    "price": 1000,
+    "description": "Сүтті коктейль.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "cocktail-strawberry",
+    "category": "Коктейли",
+    "name": "Клубничный коктейль",
+    "price": 1000,
+    "description": "Құлпынай коктейлі.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "cocktail-banana",
+    "category": "Коктейли",
+    "name": "Банановый коктейль",
+    "price": 1000,
+    "description": "Банан коктейлі.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "cocktail-chocolate",
+    "category": "Коктейли",
+    "name": "Шоколадный коктейль",
+    "price": 1000,
+    "description": "Шоколад коктейлі.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "lemon-mango",
+    "category": "Лимонады",
+    "name": "Манго-маракуйя",
+    "price": 800,
+    "description": "Манго және маракуйя лимонады.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "lemon-classic",
+    "category": "Лимонады",
+    "name": "Классический лимонад",
+    "price": 800,
+    "description": "Классикалық лимонад.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "lemon-kiwi",
+    "category": "Лимонады",
+    "name": "Киви лайм",
+    "price": 800,
+    "description": "Киви және лайм лимонады.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "lemon-mojito",
+    "category": "Лимонады",
+    "name": "Мохито",
+    "price": 800,
+    "description": "Мохито лимонады.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "tea-black",
+    "category": "Шай",
+    "name": "Черный чай",
+    "price": 300,
+    "description": "Қара шай.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "tea-green",
+    "category": "Шай",
+    "name": "Зеленый чай",
+    "price": 300,
+    "description": "Көк шай.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "tea-tashkent",
+    "category": "Шай",
+    "name": "Ташкентский чай",
+    "price": 400,
+    "description": "Ташкент шайы.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "tea-fruit",
+    "category": "Шай",
+    "name": "Фруктовый чай",
+    "price": 400,
+    "description": "Жеміс шайы.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-cola-05",
+    "category": "Газдалған сусындар",
+    "name": "Cola 0.5 л",
+    "price": 500,
+    "description": "Салқын газдалған Cola сусыны, 0.5 л.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-cola-1",
+    "category": "Газдалған сусындар",
+    "name": "Cola 1 л",
+    "price": 700,
+    "description": "Салқын газдалған Cola сусыны, 1 л.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-cola-2",
+    "category": "Газдалған сусындар",
+    "name": "Cola 2 л",
+    "price": 950,
+    "description": "Салқын газдалған Cola сусыны, 2 л.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-fanta-05",
+    "category": "Газдалған сусындар",
+    "name": "Fanta 0.5 л",
+    "price": 500,
+    "description": "Апельсин дәмі бар газдалған сусын, 0.5 л.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-fanta-1",
+    "category": "Газдалған сусындар",
+    "name": "Fanta 1 л",
+    "price": 700,
+    "description": "Апельсин дәмі бар газдалған сусын, 1 л.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-sprite-05",
+    "category": "Газдалған сусындар",
+    "name": "Sprite 0.5 л",
+    "price": 500,
+    "description": "Лимон-лайм дәмі бар газдалған сусын, 0.5 л.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-sprite-1",
+    "category": "Газдалған сусындар",
+    "name": "Sprite 1 л",
+    "price": 700,
+    "description": "Лимон-лайм дәмі бар газдалған сусын, 1 л.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-pour",
+    "category": "Газдалған сусындар",
+    "name": "Cola на разлив",
+    "price": 600,
+    "description": "Құйылмалы газдалған Cola.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-can",
+    "category": "Газдалған сусындар",
+    "name": "Cola / Fanta / Sprite ж/б",
+    "price": 500,
+    "description": "Банкадағы газдалған сусын.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-gorilla",
+    "category": "Газдалған сусындар",
+    "name": "Gorilla",
+    "price": 500,
+    "description": "Энергетикалық сусын.",
+    "image": "/menu-source/menu-1.jpg"
+  },
+  {
+    "id": "soda-dizzy",
+    "category": "Газдалған сусындар",
+    "name": "Dizzy",
+    "price": 550,
+    "description": "Газдалған сусын.",
+    "image": "/menu-source/menu-1.jpg"
+  }
+]
